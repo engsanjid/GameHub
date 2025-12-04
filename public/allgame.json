@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "title": "Player Unknown's Battle Ground (PUBG)",
+    "coverPhoto": "https://i.ibb.co.com/cS7dfT3h/battleground-hd-official-74vykxgk5g2rvij2.jpg",
+    "category": "Battle Royale",
+    "tags": ["FPS", "Shooter", "Survival"],
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a fast-paced battle royale game where 100 players fight for survival, strategy, and victory on dynamic maps.",
+    "ratings": "4.5",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Garena Free Fire MAX",
+    "coverPhoto": "https://i.ibb.co.com/JwvNVr7M/maxresdefault.jpg",
+    "category": "Battle Royale",
+    "tags": ["FPS", "Mobile", "Action"],
+    "downloadLink": "https://ff.garena.com/",
+    "description": "A popular mobile battle royale experience with fast-paced 50-player matches lasting about 10 minutes. Known for unique character abilities.",
+    "ratings": "4.3",
+    "developer": "Garena"
+  },
+  {
+    "id": "3",
+    "title": "Minecraft",
+    "coverPhoto": "https://i.ibb.co.com/99DfxMJm/minecraft-pictures-hecufpmiadbualz4.jpg",
+    "category": "Sandbox",
+    "tags": ["Survival", "Creative", "Adventure"],
+    "downloadLink": "https://www.minecraft.net/en-us/download",
+    "description": "A seminal survival and creative sandbox game that allows players to build, craft, and explore blocky, infinite 3D worlds.",
+    "ratings": "4.9",
+    "developer": "Mojang Studios"
+  },
+  {
+    "id": "4",
+    "title": "FIFA 25 (EA FC 25)",
+    "coverPhoto": "https://i.ibb.co.com/b5gSRX7S/hq720.jpg",
+    "category": "Sports",
+    "tags": ["Football", "Simulation"],
+    "downloadLink": "https://www.ea.com/games/ea-sports-fc",
+    "description": "The latest installment in the world's most popular football simulation series, offering realistic gameplay and online competitive modes.",
+    "ratings": "4.6",
+    "developer": "EA Sports"
+  },
+  {
+    "id": "5",
+    "title": "Ludo King",
+    "coverPhoto": "https://i.ibb.co.com/Lztd44Wd/ludo-king-16x9-cover.jpg",
+    "category": "Board",
+    "tags": ["Casual", "Multiplayer"],
+    "downloadLink": "https://ludoking.com/",
+    "description": "The mobile version of the classic board game Ludo. Play with friends, family, or online opponents in various fun-filled modes.",
+    "ratings": "4.4",
+    "developer": "Gametion Technologies"
+  },
+  {
+    "id": "6",
+    "title": "Carrom Pool",
+    "coverPhoto": "https://i.ibb.co.com/Wvb8qMJg/maxresdefault-1.jpg",
+    "category": "Board",
+    "tags": ["Casual", "Multiplayer"],
+    "downloadLink": "https://www.miniclip.com/games/carrom-pool/",
+    "description": "A simple and fun board game of Carrom with accurate physics. Challenge online players in freestyle or competitive carrom modes.",
+    "ratings": "4.1",
+    "developer": "Miniclip"
+  },
+  {
+    "id": "7",
+    "title": "Genshin Impact",
+    "coverPhoto": "https://i.ibb.co.com/WWXL3Znk/Splashscreen-Default.webp",
+    "category": "Action RPG",
+    "tags": ["Open World", "Fantasy", "Adventure"],
+    "downloadLink": "https://genshin.mihoyo.com/",
+    "description": "An expansive open-world action RPG set in the world of Teyvat. Features stunning visuals and deep elemental combat mechanics.",
+    "ratings": "4.7",
+    "developer": "miHoYo"
+  },
+  {
+    "id": "8",
+    "title": "Call of Duty: Mobile",
+    "coverPhoto": "https://i.ibb.co.com/bgrN4dKB/4k-call-of-duty-mobile-poster-5c50tuqihdfcliuz.jpg",
+    "category": "FPS",
+    "tags": ["Action", "Shooter", "Battle Royale"],
+    "downloadLink": "https://www.callofduty.com/mobile",
+    "description": "A full-fledged mobile FPS experience, combining classic multiplayer maps and modes with an intense 100-player Battle Royale mode.",
+    "ratings": "4.5",
+    "developer": "TiMi Studio Group"
+  },
+  {
+    "id": "9",
+    "title": "Clash of Clans",
+    "coverPhoto": "https://i.ibb.co.com/6c2jHGFW/clash-of-clans-f88iyeweabo3r6kz.jpg",
+    "category": "Strategy",
+    "tags": ["Base Builder", "Multiplayer"],
+    "downloadLink": "https://supercell.com/en/games/clashofclans/",
+    "description": "Build your village, raise a clan, and compete in epic Clan Wars against millions of active players worldwide.",
+    "ratings": "4.8",
+    "developer": "Supercell"
+  },
+  {
+    "id": "10",
+    "title": "Among Us",
+    "coverPhoto": "https://i.ibb.co.com/B2SbbLKx/among-us-pictures-ufr7q747qruthqf6.jpg",
+    "category": "Party",
+    "tags": ["Social Deduction", "Multiplayer"],
+    "downloadLink": "https://www.innersloth.com/games/among-us/",
+    "description": "A game of teamwork and betrayal in space! Crewmates work to complete tasks while Impostors secretly try to eliminate everyone.",
+    "ratings": "4.2",
+    "developer": "Innersloth"
+  },
+  {
+    "id": "11",
+    "title": "Rocket League",
+    "coverPhoto": "https://i.ibb.co.com/Nn7wj32V/Rocket-League-Season-20.webp",
+    "category": "Sports",
+    "tags": ["Vehicular Combat", "Multiplayer"],
+    "downloadLink": "https://www.rocketleague.com/",
+    "description": "Football meets driving in this award-winning physics-based sports game. Master the art of aerial strikes and goal-saving maneuvers.",
+    "ratings": "4.4",
+    "developer": "Psyonix"
+  },
+  {
+    "id": "12",
+    "title": "Hades",
+    "coverPhoto": "https://i.ibb.co.com/F41kFS21/360-F-582685167-f-Ip-ZJdyw-Itp-OTfheab2z3r-HNi49-Qw-Aor.jpg",
+    "category": "Roguelike",
+    "tags": ["Action", "Dungeon Crawler"],
+    "downloadLink": "https://www.supergiantgames.com/games/hades/",
+    "description": "A god-like roguelike dungeon crawler where you defy the god of the dead as you hack and slash your way out of the Underworld.",
+    "ratings": "4.9",
+    "developer": "Supergiant Games"
+  }
+]
