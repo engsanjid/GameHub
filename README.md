@@ -1,7 +1,7 @@
 # GameHub – Modern Indie Game Library
-```
+
 GameHub is a stylish, interactive online platform designed to explore, discover, and support indie game developers. Featuring an urban, neon-themed interface, GameHub provides smooth navigation, detailed game pages, secure login, and personalized user experiences.
-```
+
 ## Live Demo
 
 🔗 Demo: https://cool-salmiakki-fd45d4.netlify.app/
@@ -37,7 +37,7 @@ Update Profile — user can change name + profile image URL
 Forgot Password — email reset functionality
 ```
 # Core User Experience
-``
+```
 🎨 Stylish Urban UI — dark layout with neon accents
 
 📱 Fully Responsive — mobile, tablet & desktop
@@ -51,7 +51,7 @@ Forgot Password — email reset functionality
 📰 Blog Section — articles with Read More feature
 
 💌 Newsletter Signup — simple, elegant subscription box
-``
+```
 ### Game Details Page
 
 Shows complete information:
